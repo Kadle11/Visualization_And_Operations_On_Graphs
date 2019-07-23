@@ -1,4 +1,4 @@
-# Visualization_And_Operations_On_Graphs
+# Visualization And Operations On Graphs
 A project that uses OpenGL to Visualize Graphs and Perform Operations on them using a GUI.
 
 ### Prerequisites
