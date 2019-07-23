@@ -7,7 +7,8 @@ OpenGL Library Installation on Ubuntu 16.04,
 
 ### Example
 
-A Directed Graph is represented in the required format in "DirectedGraph.txt" and an Undirected Graph is represented in the required format in "UndirectedGraph.txt".
+A Directed Graph is represented in the required format in "DirectedGraph.txt" and an Undirected Graph is represented in the required format in "UndirectedGraph.txt". Each node on the graph will have a different colour for better Visualization. 
+
 
 * To Compile, Run make.
 * To Execute, ```./Prg.out < DirectedGraph.txt```
