@@ -17,7 +17,7 @@ A Directed Graph is represented in the required format in "DirectedGraph.txt" an
 ![Image 2](https://github.com/Kadle11/Visualization_And_Operations_On_Graphs/blob/master/ScreenShots/Legend.png)
 
 
-# Instructions
+### Instructions
 
 * To help with Visualization, The user can select any node and move it to any point on the canvas.
 * The Legend Gives you information about all the functions provided
