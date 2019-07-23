@@ -32,4 +32,4 @@ The Functionalities Provided are,
 To Insert Node, Click on the Insert Node Button. <br />
 To Delete Node, Click on the Delete Node Button and Select Node to Delete.<br />
 To Insert Edge, Click on the Insert Edge Button and Select the 2 Nodes.<br />
-To Delete Edge, Click on the Insert Edge Button and Select Edge. <br />
+To Delete Edge, Click on the Delete Edge Button and Select Edge. <br />
