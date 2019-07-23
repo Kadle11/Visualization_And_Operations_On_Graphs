@@ -29,7 +29,7 @@ The Functionalities Provided are,
 * Djiksta's Algorithm to find Shortest Path between any two selected Nodes
 * Chromatic Number of the Graph (Buggy)
 
-To Insert Node, Click on the Insert Node Button.
-To Delete Node, Click on the Delete Node Button and Select Node to Delete.
-To Insert Edge, Click on the Insert Edge Button and Select the 2 Nodes.
-To Delete Edge, Click on the Insert Edge Button and Select Edge. 
+To Insert Node, Click on the Insert Node Button. <br />
+To Delete Node, Click on the Delete Node Button and Select Node to Delete.<br />
+To Insert Edge, Click on the Insert Edge Button and Select the 2 Nodes.<br />
+To Delete Edge, Click on the Insert Edge Button and Select Edge. <br />
