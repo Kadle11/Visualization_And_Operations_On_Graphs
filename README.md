@@ -27,7 +27,7 @@ The Functionalities Provided are,
 * Node Deletion
 * Edge Insertion
 * Edge Deletion
-* Djiksta's Algorithm to find Shortest Path between any two selected Nodes
+* Djikstra's Algorithm to find Shortest Path between any two selected Nodes
 * Chromatic Number of the Graph (Buggy)
 
 To Insert Node, Click on the Insert Node Button. <br />
