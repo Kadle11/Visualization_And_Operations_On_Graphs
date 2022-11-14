@@ -28,7 +28,7 @@ The Functionalities Provided are,
 * Edge Insertion
 * Edge Deletion
 * Djikstra's Algorithm to find Shortest Path between any two selected Nodes
-* Chromatic Number of the Graph (under development)
+* Chromatic Number of the Graph
 
 To Insert Node, Click on the Insert Node Button. <br />
 To Delete Node, Click on the Delete Node Button and Select Node to Delete.<br />
